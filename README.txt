@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-If main branch cannot work, I publish the rar branch; you can check there
-=======
-If main branch cannot work, I publish the rar branch you can check there
->>>>>>> Stashed changes
+Main branch has a problem that I can't see, but rar branch works
